@@ -2,6 +2,8 @@
 
 Для оптимизации отрисовки элементов используется библиотека vue3-virtual-scroll-list
 
+Live example: https://origiboy.github.io/vue-grid/
+
 ## Project setup
 ```
 npm install
